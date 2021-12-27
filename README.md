@@ -20,8 +20,6 @@ Top participants may be invited to collaborate on implementing their solutions a
 
 
 
-
-
 ## Evaluation
 
 Submissions are scored on the root mean squared error. RMSE is defined as:
