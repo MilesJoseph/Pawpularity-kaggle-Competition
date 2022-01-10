@@ -32,3 +32,5 @@ where ( \hat{y}_i ) is the predicted value and (y_i) is the original value for e
 
 
 ## Notebooks
+
+The notebook section contains both my exploration and modeling efforts. In this particular competition I did not get as much done as I was hoping to. 
